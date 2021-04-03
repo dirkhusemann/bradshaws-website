@@ -1,8 +1,8 @@
 .DS_Store
 /etc/ssl/
+/www/.well-known/
 /www/assets/
 /www/cache/
 /www/thumbs/
-_mdwriter.cson
 node_modules
 *.cache
